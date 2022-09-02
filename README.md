@@ -1,6 +1,6 @@
 # tupper-self-referential-formula
 
-I tried to do the tapper self-referential formulation in perl.
+I tried to do the Tapper's Self-Referential formulation in perl.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Tupper%27s_self_referential_formula_plot.png"> (wikipedia)  
 <pre>
