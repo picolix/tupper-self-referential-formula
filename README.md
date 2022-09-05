@@ -14,10 +14,11 @@ k <= y <= k+17</pre>
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Tupper%27s_self_referential_formula_plot.png"> (wikipedia)  
 
 ## Usage
-perl taptest.pl
+perl taptest.pl  
+python taptest.py  
 
 ## Requirement
-use Math::BigInt;
+perl : use Math::BigInt;
 
 ## Execution
 <pre>
